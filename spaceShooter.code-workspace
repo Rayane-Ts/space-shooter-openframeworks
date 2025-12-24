@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxAssimpModelLoader"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxAssimpModelLoader"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxAssimpModelLoader"
+		}
+	],
+	"openFrameworksProjectGeneratorVersion": "0.103.0",
+	"settings": {}
+}

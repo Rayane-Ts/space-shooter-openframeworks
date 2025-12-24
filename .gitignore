@@ -1,0 +1,48 @@
+# Compiled Object files
+*.o
+*.obj
+obj/
+
+# Compiled libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+bin/*.exe
+!bin/data/
+
+# Build folders
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.sdf
+*.opensdf
+*.suo
+*.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
+*.swp
+*.log
+
+# MSYS2 specific
+*.exe.stackdump
+
+# Don't ignore data folder
+!bin/data/
